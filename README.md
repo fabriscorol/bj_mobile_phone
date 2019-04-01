@@ -4,7 +4,7 @@
 [![Software License][ico-license]](LICENSE.md)
 [![Total Downloads][ico-downloads]][link-downloads]
 
-A minimal module to validate Beninese mobile phone numbers. Inspired by [link-to-inspired] 
+A minimal module to validate Beninese mobile phone numbers. Inspired by [nioperas06][link-to-inspired] Python project
 
 ## Structure
 
