@@ -33,7 +33,7 @@ class BjPhoneNumber
      *
      * @return     boolean  ( description_of_the_return_value )
      */
-    public function validateNumber(int $phone_number): boolean{
+    public function validateNumber(int $phone_number): bool{
 
         $pattern = "/(^[6]([0-2]|[4-9])\d{6}$)|(^[9]([0-1]|[4-9])\d{6}$)/";
 
